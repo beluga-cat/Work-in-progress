@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173598418186",
+    "project_id": "my-good-firestoreproject",
+    "storage_bucket": "my-good-firestoreproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173598418186:android:9900219f3e6d8cf43d46f3",
+        "android_client_info": {
+          "package_name": "com.example.flutterclass9th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173598418186-f73su3db6951u3k401u9jmj04rq6u2ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoucJGhr5B0QFT-L8x8pc48NfCdyCg7pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173598418186-f73su3db6951u3k401u9jmj04rq6u2ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
